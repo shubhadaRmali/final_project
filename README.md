@@ -1,6 +1,6 @@
 [ FITNESS GYM WEBSITE ]
-Technologies
-Frontend--->ReactJs
+Technologies:
+(Frontend--->ReactJs
 Backend--->SpringBoot
-DataBase--->MySql
+DataBase--->MySql)
 team size-4
